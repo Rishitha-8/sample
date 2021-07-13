@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit welcome.py
+web: sh setup.sh && streamlit app.py
